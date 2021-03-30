@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Trident Shards",
+        "description": "Adds craftable tridents using shards dropped by Elder Guardians",
+        "icon": {
+            "item": "trident"
+        },
+        "announce_to_chat": false,
+        "show_toast": false
+    },
+    "parent": "global:dbtderpbox",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
