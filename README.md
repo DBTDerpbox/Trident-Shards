@@ -4,6 +4,8 @@ Trident Shards is a datapack that allows for the crafting of tridents using shar
 
 ### Installation
 
+* Download required files from the [Releases Page](https://github.com/DBTDerpbox/Trident-Shards/releases/latest) 
+
 * Put the `Trident-Shards-DP.zip` file into your datapacks folder for your world
 
 * Put the `Trident-Shards-Resources.zip` file into your resource packs folder
