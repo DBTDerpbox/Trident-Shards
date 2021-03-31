@@ -10,6 +10,8 @@ Trident Shards is a datapack that allows for the crafting of tridents using shar
 
 * Put the `Trident-Shards-Resources.zip` file into your resource packs folder
 
+* For multiplayer servers, put `https://dbtderpbox.github.io/Trident-Shards-Resources/zip/Trident-Shards-Resources-1.0.zip` as your resource pack in `server.properties`
+
 ### Notices
 
 Without the resource pack, trident shards will appear as command blocks
