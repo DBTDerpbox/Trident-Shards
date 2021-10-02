@@ -16,7 +16,7 @@ Trident Shards is a datapack that allows for the crafting of tridents using shar
 
 Without the resource pack, trident shards will appear as command blocks
 
-Trident Shards is currently designed for [Minecraft Java Edition 1.16.5](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-5)
+Trident Shards is currently designed for [Minecraft Java Edition 1.16.5](https://www.minecraft.net/en-us/article/minecraft-java-edition-1-16-5), but works completely fine with 1.17 from my testing.
 
 ## Authors
 
